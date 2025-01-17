@@ -1,2 +1,1 @@
-# PreCourse-Henry
-este es un reporsitorio de prueba modulo2
+este es un poyecto de como clona un repositorio
